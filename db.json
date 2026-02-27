@@ -1,6 +1,6 @@
 {
-  "users" :[
-              {
+  "users":[
+     {
                 "id" :1,
                 "name" : "nguyen van an",
                 "email" : "nguyenvnaan@gmail.com",
@@ -24,8 +24,7 @@
                 "Avatar": "Http://example.com/avatar/an.jpg",
                 "dateOfBirth" : "1990-05-15",
               },
-        ]
+  ]
 }
-  
   
   
